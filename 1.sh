@@ -2,5 +2,6 @@
 #Test
 
 a="Test"
+b=" nowy"
 
-echo $a
+echo $a $b
