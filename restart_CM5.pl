@@ -3,9 +3,9 @@ use strict;
 use Switch;
 use Net::Telnet::Cisco;
 
-my $IP    = '172.18.130.10';
-my $login = @ARGV[0];
-my $pass  = @ARGV[1];
+my $IP    = @ARGV[0];
+my $login = @ARGV[1];
+my $pass  = @ARGV[2];
 my $qq;
 my $godz = 3600;
 my @offline;
