@@ -1,2 +1,2 @@
 # 1
-Test
+New in Git :)
