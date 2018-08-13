@@ -1,4 +1,4 @@
-#!/usr/bin/perl -W
+#!/usr/bin/perl
 use strict;
 use Switch;
 use Net::Telnet::Cisco;
