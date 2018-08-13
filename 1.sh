@@ -5,4 +5,4 @@ a="Test"
 b=" nowy"
 c="!"
 
-echo $a $b
+echo $a $b $c
