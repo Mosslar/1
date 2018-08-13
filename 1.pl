@@ -1,13 +1,17 @@
 #!/usr/bin/perl
 
 $a="test";
-$b=" nowy1";
+$b=" new666";
 
 print $Test;
 
 $_=$b;
 
 if ( m/[0-9]/ ) {
-  print "cyfry\n";
+  print " number\n";
+
+}else{
+
+print " letter\n"
 
 }
