@@ -1,2 +1,2 @@
 # 1
-New in Git :)
+Nowy.
